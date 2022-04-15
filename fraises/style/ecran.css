@@ -1,0 +1,44 @@
+html { 
+  background-color: #E0E0E0;
+  font-family: Helvetica, sans-serif;
+ }
+
+body { 
+  background-color: #fcfcea;
+  max-width: 60em;
+  margin: 2em auto;
+}
+header{
+  border: 1px solid #b71236;
+  text-align: center;
+  background-color: #b71236;
+  color: white;
+}
+main{
+  padding: 0px 40px 0px 40px;
+}
+.pied-page{
+  padding: 0px 40px 40px 40px;
+  text-align: right;
+}
+div{
+  border: 1px solid black;
+  text-align: center;
+  margin: 0% 12%;
+}
+#section1 p span{
+  font-style: italic;
+}
+h2{
+  font-family: initial;
+  font-style: italic;
+}
+img{
+  width: 97%;
+}
+#section4 ul{
+  list-style-type: none;
+}
+hr{
+  color: #b71236;
+}
